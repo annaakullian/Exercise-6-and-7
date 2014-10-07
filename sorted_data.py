@@ -1,5 +1,5 @@
 from sys import argv
-import sys
+# import sys
 
 script, the_data = argv
 
